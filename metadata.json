@@ -1,0 +1,6 @@
+{
+  "name": "KLE College Gangavathi",
+  "description": "Official website for KLE Society's College of Commerce & BCA, Gangavathi, Karnataka. Affiliated to Koppal University and AICTE approved.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
